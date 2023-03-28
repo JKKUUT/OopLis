@@ -61,3 +61,11 @@ public class LaitonVuosiPoikkeus extends Exception {
         super(viesti);
     }
 }
+
+// huomioita...
+
+// konstruktori voisi tarkistaa päivämäärän oikeuden tarkemmin, esim karkausvuodet
+// ja kuukausien eri päivämäärät.
+
+// myös LocalDate, eli sisäisen luokan käyttö ois ollut kätevää
+
