@@ -1,3 +1,6 @@
+// OOP Lisätehtävä 3 - Joni Kuutniemi
+
+
 public class Päivämäärä {
     private int päivä;
     private int kuukausi;
